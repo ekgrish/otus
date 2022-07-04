@@ -1,2 +1,2 @@
 # otus
-домашний задания для курса Microservice Architect
+домашние задания для курса Microservice Architect
